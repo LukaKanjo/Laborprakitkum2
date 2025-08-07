@@ -1,0 +1,17 @@
+/*
+!.gitignore
+.Projects/
+.gitconfig
+.cache/
+.config/
+.dotnet/
+.ipython/
+.local/
+.vscode-server/
+snap/
+myenv/
+.bash_history
+.bashrc
+.motd_shown
+.profile
+.python_history
