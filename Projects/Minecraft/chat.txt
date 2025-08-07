@@ -1,0 +1,247 @@
+[02:23:57] [Render thread/INFO]: [System] [CHAT] Items for lime (2.53 min), total: 21, (498.4/h):[X]
+[02:23:57] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 19, 450.9/h
+[02:23:57] [Render thread/INFO]: [System] [CHAT] - Poppy: 2, 47.5/h
+[02:23:58] [Render thread/INFO]: [System] [CHAT] Items for lime (4.39 min), total: 43, (588.1/h):[X]
+[02:23:58] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 37, 506.1/h
+[02:23:58] [Render thread/INFO]: [System] [CHAT] - Poppy: 6, 82.1/h
+[02:24:00] [Render thread/INFO]: [System] [CHAT] Items for lime (5.96 min), total: 51, (513.3/h):[X]
+[02:24:00] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 43, 432.8/h
+[02:24:00] [Render thread/INFO]: [System] [CHAT] - Poppy: 8, 80.5/h
+[02:24:03] [Render thread/INFO]: [System] [CHAT] Items for lime (9.26 min), total: 84, (544.6/h):[X]
+[02:24:03] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 69, 447.3/h
+[02:24:03] [Render thread/INFO]: [System] [CHAT] - Poppy: 15, 97.2/h
+[02:24:08] [Render thread/INFO]: [System] [CHAT] Items for lime (13.87 min), total: 127, (549.3/h):[X]
+[02:24:08] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 105, 454.1/h
+[02:24:08] [Render thread/INFO]: [System] [CHAT] - Poppy: 22, 95.2/h
+[02:24:13] [Render thread/INFO]: [System] [CHAT] Items for lime (18.35 min), total: 161, (526.4/h):[X]
+[02:24:13] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 133, 434.8/h
+[02:24:13] [Render thread/INFO]: [System] [CHAT] - Poppy: 28, 91.5/h
+[02:24:18] [Render thread/INFO]: [System] [CHAT] Items for lime (22.77 min), total: 204, (537.5/h):[X]
+[02:24:18] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 166, 437.4/h
+[02:24:18] [Render thread/INFO]: [System] [CHAT] - Poppy: 38, 100.1/h
+[02:24:22] [Render thread/INFO]: [System] [CHAT] Items for lime (27.48 min), total: 252, (550.2/h):[X]
+[02:24:22] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 204, 445.4/h
+[02:24:22] [Render thread/INFO]: [System] [CHAT] - Poppy: 48, 104.8/h
+[02:24:27] [Render thread/INFO]: [System] [CHAT] Items for lime (32.30 min), total: 280, (520.1/h):[X]
+[02:24:27] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 228, 423.5/h
+[02:24:27] [Render thread/INFO]: [System] [CHAT] - Poppy: 52, 96.6/h
+[02:24:32] [Render thread/INFO]: [System] [CHAT] Items for lime (36.76 min), total: 320, (522.3/h):[X]
+[02:24:32] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 259, 422.8/h
+[02:24:32] [Render thread/INFO]: [System] [CHAT] - Poppy: 61, 99.6/h
+[02:24:37] [Render thread/INFO]: [System] [CHAT] Items for lime (41.13 min), total: 358, (522.3/h):[X]
+[02:24:37] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 290, 423.1/h
+[02:24:37] [Render thread/INFO]: [System] [CHAT] - Poppy: 68, 99.2/h
+[02:24:42] [Render thread/INFO]: [System] [CHAT] Items for lime (45.75 min), total: 404, (529.9/h):[X]
+[02:24:42] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 329, 431.5/h
+[02:24:42] [Render thread/INFO]: [System] [CHAT] - Poppy: 75, 98.4/h
+[02:24:46] [Render thread/INFO]: [System] [CHAT] Items for lime (50.60 min), total: 445, (527.7/h):[X]
+[02:24:46] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 364, 431.6/h
+[02:24:46] [Render thread/INFO]: [System] [CHAT] - Poppy: 81, 96.1/h
+[02:24:51] [Render thread/INFO]: [System] [CHAT] Items for lime (55.27 min), total: 481, (522.2/h):[X]
+[02:24:51] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 392, 425.5/h
+[02:24:51] [Render thread/INFO]: [System] [CHAT] - Poppy: 89, 96.6/h
+[02:24:56] [Render thread/INFO]: [System] [CHAT] Items for lime (59.58 min), total: 527, (530.7/h):[X]
+[02:24:56] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 428, 431.0/h
+[02:24:56] [Render thread/INFO]: [System] [CHAT] - Poppy: 99, 99.7/h
+[02:25:01] [Render thread/INFO]: [System] [CHAT] Items for lime (64.11 min), total: 561, (525.0/h):[X]
+[02:25:01] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 455, 425.8/h
+[02:25:01] [Render thread/INFO]: [System] [CHAT] - Poppy: 106, 99.2/h
+[02:25:06] [Render thread/INFO]: [System] [CHAT] Items for lime (68.94 min), total: 600, (522.2/h):[X]
+[02:25:06] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 485, 422.1/h
+[02:25:06] [Render thread/INFO]: [System] [CHAT] - Poppy: 115, 100.1/h
+[02:25:11] [Render thread/INFO]: [System] [CHAT] Items for lime (73.69 min), total: 635, (517.1/h):[X]
+[02:25:11] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 512, 416.9/h
+[02:25:11] [Render thread/INFO]: [System] [CHAT] - Poppy: 123, 100.2/h
+[02:25:15] [Render thread/INFO]: [System] [CHAT] Items for lime (78.16 min), total: 677, (519.7/h):[X]
+[02:25:15] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 541, 415.3/h
+[02:25:15] [Render thread/INFO]: [System] [CHAT] - Poppy: 136, 104.4/h
+[02:25:20] [Render thread/INFO]: [System] [CHAT] Items for lime (82.52 min), total: 716, (520.6/h):[X]
+[02:25:20] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 573, 416.6/h
+[02:25:20] [Render thread/INFO]: [System] [CHAT] - Poppy: 143, 104.0/h
+[02:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77365ms or 773653 ticks behind
+[02:25:25] [Render thread/INFO]: [System] [CHAT] Items for lime (87.26 min), total: 759, (521.9/h):[X]
+[02:25:25] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 605, 416.0/h
+[02:25:25] [Render thread/INFO]: [System] [CHAT] - Poppy: 154, 105.9/h
+[02:25:30] [Render thread/INFO]: [System] [CHAT] Items for lime (91.97 min), total: 799, (521.3/h):[X]
+[02:25:30] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 637, 415.6/h
+[02:25:30] [Render thread/INFO]: [System] [CHAT] - Poppy: 162, 105.7/h
+[02:25:35] [Render thread/INFO]: [System] [CHAT] Items for lime (96.17 min), total: 835, (520.9/h):[X]
+[02:25:35] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 667, 416.1/h
+[02:25:35] [Render thread/INFO]: [System] [CHAT] - Poppy: 168, 104.8/h
+[02:25:39] [Render thread/INFO]: [System] [CHAT] Items for lime (100.56 min), total: 867, (517.3/h):[X]
+[02:25:39] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 693, 413.5/h
+[02:25:39] [Render thread/INFO]: [System] [CHAT] - Poppy: 174, 103.8/h
+[02:25:44] [Render thread/INFO]: [System] [CHAT] Items for lime (105.03 min), total: 914, (522.1/h):[X]
+[02:25:44] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 730, 417.0/h
+[02:25:44] [Render thread/INFO]: [System] [CHAT] - Poppy: 184, 105.1/h
+[02:25:49] [Render thread/INFO]: [System] [CHAT] Items for lime (109.73 min), total: 954, (521.6/h):[X]
+[02:25:49] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 761, 416.1/h
+[02:25:49] [Render thread/INFO]: [System] [CHAT] - Poppy: 193, 105.5/h
+[02:25:54] [Render thread/INFO]: [System] [CHAT] Items for lime (114.23 min), total: 1001, (525.8/h):[X]
+[02:25:54] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 799, 419.7/h
+[02:25:54] [Render thread/INFO]: [System] [CHAT] - Poppy: 202, 106.1/h
+[02:25:59] [Render thread/INFO]: [System] [CHAT] Items for lime (118.66 min), total: 1043, (527.4/h):[X]
+[02:25:59] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 830, 419.7/h
+[02:25:59] [Render thread/INFO]: [System] [CHAT] - Poppy: 213, 107.7/h
+[02:26:03] [Render thread/INFO]: [System] [CHAT] Items for lime (123.07 min), total: 1082, (527.5/h):[X]
+[02:26:03] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 862, 420.3/h
+[02:26:03] [Render thread/INFO]: [System] [CHAT] - Poppy: 220, 107.3/h
+[02:26:08] [Render thread/INFO]: [System] [CHAT] Items for lime (127.83 min), total: 1125, (528.1/h):[X]
+[02:26:08] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 894, 419.6/h
+[02:26:08] [Render thread/INFO]: [System] [CHAT] - Poppy: 231, 108.4/h
+[02:26:13] [Render thread/INFO]: [System] [CHAT] Items for lime (132.60 min), total: 1168, (528.5/h):[X]
+[02:26:13] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 926, 419.0/h
+[02:26:13] [Render thread/INFO]: [System] [CHAT] - Poppy: 242, 109.5/h
+[02:26:18] [Render thread/INFO]: [System] [CHAT] Items for lime (137.02 min), total: 1210, (529.9/h):[X]
+[02:26:18] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 957, 419.1/h
+[02:26:18] [Render thread/INFO]: [System] [CHAT] - Poppy: 253, 110.8/h
+[02:26:23] [Render thread/INFO]: [System] [CHAT] Items for lime (141.49 min), total: 1254, (531.8/h):[X]
+[02:26:23] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 994, 421.5/h
+[02:26:23] [Render thread/INFO]: [System] [CHAT] - Poppy: 260, 110.3/h
+[02:26:27] [Render thread/INFO]: [System] [CHAT] Items for lime (146.32 min), total: 1299, (532.7/h):[X]
+[02:26:27] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1025, 420.3/h
+[02:26:27] [Render thread/INFO]: [System] [CHAT] - Poppy: 274, 112.4/h
+[02:26:32] [Render thread/INFO]: [System] [CHAT] Items for lime (151.11 min), total: 1343, (533.3/h):[X]
+[02:26:32] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1058, 420.1/h
+[02:26:32] [Render thread/INFO]: [System] [CHAT] - Poppy: 285, 113.2/h
+[02:26:37] [Render thread/INFO]: [System] [CHAT] Items for lime (155.75 min), total: 1378, (530.9/h):[X]
+[02:26:37] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1086, 418.4/h
+[02:26:37] [Render thread/INFO]: [System] [CHAT] - Poppy: 292, 112.5/h
+[02:26:42] [Render thread/INFO]: [System] [CHAT] Items for lime (160.35 min), total: 1410, (527.6/h):[X]
+[02:26:42] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1112, 416.1/h
+[02:26:42] [Render thread/INFO]: [System] [CHAT] - Poppy: 298, 111.5/h
+[02:26:47] [Render thread/INFO]: [System] [CHAT] Items for lime (165.05 min), total: 1447, (526.0/h):[X]
+[02:26:47] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1144, 415.9/h
+[02:26:47] [Render thread/INFO]: [System] [CHAT] - Poppy: 303, 110.1/h
+[02:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77326ms or 773260 ticks behind
+[02:26:51] [Render thread/INFO]: [System] [CHAT] Items for lime (169.77 min), total: 1492, (527.3/h):[X]
+[02:26:51] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1179, 416.7/h
+[02:26:51] [Render thread/INFO]: [System] [CHAT] - Poppy: 313, 110.6/h
+[02:26:56] [Render thread/INFO]: [System] [CHAT] Items for lime (174.44 min), total: 1531, (526.6/h):[X]
+[02:26:56] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1211, 416.5/h
+[02:26:56] [Render thread/INFO]: [System] [CHAT] - Poppy: 320, 110.1/h
+[02:27:01] [Render thread/INFO]: [System] [CHAT] Items for lime (178.92 min), total: 1571, (526.8/h):[X]
+[02:27:01] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1241, 416.2/h
+[02:27:01] [Render thread/INFO]: [System] [CHAT] - Poppy: 330, 110.7/h
+[02:27:06] [Render thread/INFO]: [System] [CHAT] Items for lime (183.40 min), total: 1613, (527.7/h):[X]
+[02:27:06] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1274, 416.8/h
+[02:27:06] [Render thread/INFO]: [System] [CHAT] - Poppy: 339, 110.9/h
+[02:27:11] [Render thread/INFO]: [System] [CHAT] Items for lime (188.23 min), total: 1653, (526.9/h):[X]
+[02:27:11] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1302, 415.0/h
+[02:27:11] [Render thread/INFO]: [System] [CHAT] - Poppy: 351, 111.9/h
+[02:27:15] [Render thread/INFO]: [System] [CHAT] Items for lime (193.01 min), total: 1688, (524.7/h):[X]
+[02:27:15] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1329, 413.1/h
+[02:27:15] [Render thread/INFO]: [System] [CHAT] - Poppy: 359, 111.6/h
+[02:27:20] [Render thread/INFO]: [System] [CHAT] Items for lime (197.25 min), total: 1725, (524.7/h):[X]
+[02:27:20] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1358, 413.1/h
+[02:27:20] [Render thread/INFO]: [System] [CHAT] - Poppy: 367, 111.6/h
+[02:27:25] [Render thread/INFO]: [System] [CHAT] Items for lime (201.64 min), total: 1758, (523.1/h):[X]
+[02:27:25] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1388, 413.0/h
+[02:27:25] [Render thread/INFO]: [System] [CHAT] - Poppy: 370, 110.1/h
+[02:27:30] [Render thread/INFO]: [System] [CHAT] Items for lime (206.40 min), total: 1795, (521.8/h):[X]
+[02:27:30] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1415, 411.3/h
+[02:27:30] [Render thread/INFO]: [System] [CHAT] - Poppy: 380, 110.5/h
+[02:27:35] [Render thread/INFO]: [System] [CHAT] Items for lime (211.14 min), total: 1840, (522.9/h):[X]
+[02:27:35] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1451, 412.3/h
+[02:27:35] [Render thread/INFO]: [System] [CHAT] - Poppy: 389, 110.5/h
+[02:27:40] [Render thread/INFO]: [System] [CHAT] Items for lime (215.57 min), total: 1872, (521.0/h):[X]
+[02:27:40] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1478, 411.4/h
+[02:27:40] [Render thread/INFO]: [System] [CHAT] - Poppy: 394, 109.7/h
+[02:27:44] [Render thread/INFO]: [System] [CHAT] Items for lime (219.91 min), total: 1908, (520.6/h):[X]
+[02:27:44] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1510, 412.0/h
+[02:27:44] [Render thread/INFO]: [System] [CHAT] - Poppy: 398, 108.6/h
+[02:27:49] [Render thread/INFO]: [System] [CHAT] Items for lime (224.46 min), total: 1942, (519.1/h):[X]
+[02:27:49] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1536, 410.6/h
+[02:27:49] [Render thread/INFO]: [System] [CHAT] - Poppy: 406, 108.5/h
+[02:27:54] [Render thread/INFO]: [System] [CHAT] Items for lime (229.32 min), total: 1979, (517.8/h):[X]
+[02:27:54] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1563, 409.0/h
+[02:27:54] [Render thread/INFO]: [System] [CHAT] - Poppy: 416, 108.8/h
+[02:27:59] [Render thread/INFO]: [System] [CHAT] Items for lime (234.04 min), total: 2026, (519.4/h):[X]
+[02:27:59] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1599, 409.9/h
+[02:27:59] [Render thread/INFO]: [System] [CHAT] - Poppy: 427, 109.5/h
+[02:28:04] [Render thread/INFO]: [System] [CHAT] Items for lime (238.43 min), total: 2066, (519.9/h):[X]
+[02:28:04] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1632, 410.7/h
+[02:28:04] [Render thread/INFO]: [System] [CHAT] - Poppy: 434, 109.2/h
+[02:28:08] [Render thread/INFO]: [System] [CHAT] Items for lime (242.92 min), total: 2106, (520.2/h):[X]
+[02:28:08] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1663, 410.8/h
+[02:28:08] [Render thread/INFO]: [System] [CHAT] - Poppy: 443, 109.4/h
+[02:28:13] [Render thread/INFO]: [System] [CHAT] Items for lime (247.76 min), total: 2141, (518.5/h):[X]
+[02:28:13] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1691, 409.5/h
+[02:28:13] [Render thread/INFO]: [System] [CHAT] - Poppy: 450, 109.0/h
+[02:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77196ms or 771961 ticks behind
+[02:28:18] [Render thread/INFO]: [System] [CHAT] Items for lime (252.57 min), total: 2172, (516.0/h):[X]
+[02:28:18] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1721, 408.8/h
+[02:28:18] [Render thread/INFO]: [System] [CHAT] - Poppy: 451, 107.1/h
+[02:28:23] [Render thread/INFO]: [System] [CHAT] Items for lime (256.94 min), total: 2209, (515.8/h):[X]
+[02:28:23] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1748, 408.2/h
+[02:28:23] [Render thread/INFO]: [System] [CHAT] - Poppy: 461, 107.7/h
+[02:28:28] [Render thread/INFO]: [System] [CHAT] Items for lime (261.29 min), total: 2249, (516.4/h):[X]
+[02:28:28] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1778, 408.3/h
+[02:28:28] [Render thread/INFO]: [System] [CHAT] - Poppy: 471, 108.2/h
+[02:28:32] [Render thread/INFO]: [System] [CHAT] Items for lime (265.96 min), total: 2288, (516.2/h):[X]
+[02:28:32] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1807, 407.7/h
+[02:28:32] [Render thread/INFO]: [System] [CHAT] - Poppy: 481, 108.5/h
+[02:28:37] [Render thread/INFO]: [System] [CHAT] Items for lime (270.64 min), total: 2334, (517.4/h):[X]
+[02:28:37] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1845, 409.0/h
+[02:28:37] [Render thread/INFO]: [System] [CHAT] - Poppy: 489, 108.4/h
+[02:28:42] [Render thread/INFO]: [System] [CHAT] Items for lime (275.21 min), total: 2371, (516.9/h):[X]
+[02:28:42] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1872, 408.1/h
+[02:28:42] [Render thread/INFO]: [System] [CHAT] - Poppy: 499, 108.8/h
+[02:28:47] [Render thread/INFO]: [System] [CHAT] Items for lime (279.65 min), total: 2408, (516.7/h):[X]
+[02:28:47] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1903, 408.3/h
+[02:28:47] [Render thread/INFO]: [System] [CHAT] - Poppy: 505, 108.4/h
+[02:28:52] [Render thread/INFO]: [System] [CHAT] Items for lime (284.15 min), total: 2449, (517.1/h):[X]
+[02:28:52] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1933, 408.2/h
+[02:28:52] [Render thread/INFO]: [System] [CHAT] - Poppy: 516, 109.0/h
+[02:28:56] [Render thread/INFO]: [System] [CHAT] Items for lime (289.01 min), total: 2492, (517.4/h):[X]
+[02:28:56] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 1968, 408.6/h
+[02:28:56] [Render thread/INFO]: [System] [CHAT] - Poppy: 524, 108.8/h
+[02:29:01] [Render thread/INFO]: [System] [CHAT] Items for lime (293.73 min), total: 2527, (516.2/h):[X]
+[02:29:01] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2000, 408.5/h
+[02:29:01] [Render thread/INFO]: [System] [CHAT] - Poppy: 527, 107.7/h
+[02:29:06] [Render thread/INFO]: [System] [CHAT] Items for lime (298.08 min), total: 2569, (517.1/h):[X]
+[02:29:06] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2031, 408.8/h
+[02:29:06] [Render thread/INFO]: [System] [CHAT] - Poppy: 538, 108.3/h
+[02:29:11] [Render thread/INFO]: [System] [CHAT] Items for lime (302.43 min), total: 2607, (517.2/h):[X]
+[02:29:11] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2057, 408.1/h
+[02:29:11] [Render thread/INFO]: [System] [CHAT] - Poppy: 550, 109.1/h
+[02:29:16] [Render thread/INFO]: [System] [CHAT] Items for lime (307.16 min), total: 2650, (517.7/h):[X]
+[02:29:16] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2089, 408.1/h
+[02:29:16] [Render thread/INFO]: [System] [CHAT] - Poppy: 561, 109.6/h
+[02:29:20] [Render thread/INFO]: [System] [CHAT] Items for lime (311.94 min), total: 2689, (517.2/h):[X]
+[02:29:20] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2121, 408.0/h
+[02:29:20] [Render thread/INFO]: [System] [CHAT] - Poppy: 568, 109.3/h
+[02:29:25] [Render thread/INFO]: [System] [CHAT] Items for lime (316.26 min), total: 2732, (518.3/h):[X]
+[02:29:25] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2152, 408.3/h
+[02:29:25] [Render thread/INFO]: [System] [CHAT] - Poppy: 580, 110.0/h
+[02:29:30] [Render thread/INFO]: [System] [CHAT] Items for lime (320.67 min), total: 2769, (518.1/h):[X]
+[02:29:30] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2181, 408.1/h
+[02:29:30] [Render thread/INFO]: [System] [CHAT] - Poppy: 588, 110.0/h
+[02:29:35] [Render thread/INFO]: [System] [CHAT] Items for lime (325.32 min), total: 2804, (517.1/h):[X]
+[02:29:35] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2211, 407.8/h
+[02:29:35] [Render thread/INFO]: [System] [CHAT] - Poppy: 593, 109.4/h
+[02:29:40] [Render thread/INFO]: [System] [CHAT] Items for lime (329.96 min), total: 2844, (517.2/h):[X]
+[02:29:40] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2244, 408.0/h
+[02:29:40] [Render thread/INFO]: [System] [CHAT] - Poppy: 600, 109.1/h
+[02:29:44] [Render thread/INFO]: [System] [CHAT] Items for lime (334.56 min), total: 2879, (516.3/h):[X]
+[02:29:44] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2274, 407.8/h
+[02:29:44] [Render thread/INFO]: [System] [CHAT] - Poppy: 605, 108.5/h
+[02:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77854ms or 778541 ticks behind
+[02:29:49] [Render thread/INFO]: [System] [CHAT] Items for lime (338.89 min), total: 2921, (517.2/h):[X]
+[02:29:49] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2307, 408.5/h
+[02:29:49] [Render thread/INFO]: [System] [CHAT] - Poppy: 614, 108.7/h
+[02:29:54] [Render thread/INFO]: [System] [CHAT] Items for lime (343.37 min), total: 2958, (516.9/h):[X]
+[02:29:54] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2339, 408.7/h
+[02:29:54] [Render thread/INFO]: [System] [CHAT] - Poppy: 619, 108.2/h
+[02:29:59] [Render thread/INFO]: [System] [CHAT] Items for lime (348.15 min), total: 3002, (517.4/h):[X]
+[02:29:59] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2371, 408.6/h
+[02:29:59] [Render thread/INFO]: [System] [CHAT] - Poppy: 631, 108.7/h
+[02:30:04] [Render thread/INFO]: [System] [CHAT] Items for lime (352.82 min), total: 3035, (516.1/h):[X]
+[02:30:04] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2399, 408.0/h
+[02:30:04] [Render thread/INFO]: [System] [CHAT] - Poppy: 636, 108.2/h
+[02:30:09] [Render thread/INFO]: [System] [CHAT] Items for lime (357.13 min), total: 3072, (516.1/h):[X]
+[02:30:09] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2431, 408.4/h
+[02:30:09] [Render thread/INFO]: [System] [CHAT] - Poppy: 641, 107.7/h
+[02:30:13] [Render thread/INFO]: [System] [CHAT] Items for lime (361.55 min), total: 3114, (516.8/h):[X]
+[02:30:13] [Render thread/INFO]: [System] [CHAT] - Iron Ingot: 2462, 408.6/h
+[02:30:13] [Render thread/INFO]: [System] [CHAT] - Poppy: 652, 108.2/h
