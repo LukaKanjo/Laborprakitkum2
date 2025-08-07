@@ -8,7 +8,6 @@
 .local/
 .vscode-server/
 snap/
-myenv/
 .bash_history
 .bashrc
 .motd_shown
